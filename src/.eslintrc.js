@@ -14,6 +14,7 @@ module.exports = {
         'import/no-amd': 'error',
         'import/no-nodejs-modules': 'error',
         'react/jsx-no-literals': 'error',
+        'no-unused-vars': 'off',
         'no-confusing-arrow': ['error', {
             'allowParens': true
         }]
